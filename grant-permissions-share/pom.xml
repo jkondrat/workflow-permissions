@@ -12,7 +12,7 @@
     <parent>
         <groupId>org.alfresco.maven</groupId>
         <artifactId>alfresco-sdk-parent</artifactId>
-        <version>1.0</version>
+        <version>2.2.0</version>
     </parent>
 
     <!-- 
@@ -22,7 +22,7 @@
        -->
     <properties>
         <alfresco.groupId>org.alfresco</alfresco.groupId>
-        <alfresco.version>4.2.c</alfresco.version>
+        <alfresco.version>5.2.e</alfresco.version>
         <app.log.root.level>WARN</app.log.root.level>
         <alfresco.data.location>alf_data_dev</alfresco.data.location>
         <!-- Defines the target WAR for this AMP. Allowed values: alfresco | share  -->
